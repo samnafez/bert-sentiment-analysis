@@ -19,6 +19,9 @@ The system includes:
 
 The primary objective was to evaluate modern Transformer architectures against traditional NLP approaches and understand performance trade-offs in text classification.
 
+For a detailed technical analysis, experimental design discussion, and evaluation breakdown, see the full technical report:  
+[BERT Sentiment Analysis Technical Report](BERT_Sentiment_Analysis_Technical_Report.pdf)
+
 ---
 
 ## Dataset
